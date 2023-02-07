@@ -1,6 +1,6 @@
 ---
 title: "Digital Literacy Narrative Assignment"
-layout: textlay
+layout: page
 excerpt: "Digital Literacy Narrative Assignment"
 sitemap: false
 permalink: /dln-assignment/
