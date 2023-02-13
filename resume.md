@@ -67,11 +67,11 @@ subject selection and more
 
 ## Projects
 `Feb 2021-Present`
-__Whatsapp Analytics Application and Library__
+__Whatsapp Analytics Application and Library__,
 - Constructed a Streamlit-based Python web application that lets users gain insights and see exciting visualisations based on their WhatsApp chat logs. Currently working on converting the web application into a library to allow users to integrate the feature into their code
 
 `May 2020-Jun 2020`
-__Forex Trading Expert Advisor__
+__Forex Trading Expert Advisor__,
 - Developed an automated forex trading advisor using the MetaQuotes 4 language using the Bollinger Bands and the RSI
 Indicators to trade automatically in the 1 Minute periods
 
