@@ -7,8 +7,9 @@ tags: [artificial intelligence, novel, text generation, history]
 comments: true
 category: blog
 ---
-
+<p>
 In the realm of technology, there has always been a significant contention regarding the extent of a computer's capabilities. While some individuals hold the conviction that computers are capable of undertaking any task, others contend that certain undertakings are beyond the reach of computers. One such task that has been frequently discussed is the creation of a novel.
+</p>
 For many years, the creation of a novel was regarded as a hallmark of human creativity and imagination. With the advent of technology, the question of whether it was feasible for a computer to produce a novel arose.
 The history of computer-generated writing dates back to the mid-1960s when computer scientists and researchers began exploring the potential of using computers to generate natural language text. One of the earliest and most famous examples of computer-generated text was ELIZA, a chatbot developed by computer scientist Joseph Weizenbaum.
 ELIZA was designed to mimic the behaviour of a psychotherapist in text-based conversations, using a combination of pattern matching and substitution techniques. Despite its simplicity, ELIZA was able to generate surprisingly convincing and engaging responses, leading some users to form emotional attachments to the chatbot.
