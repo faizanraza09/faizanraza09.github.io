@@ -18,7 +18,7 @@ The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from
  The second object that we have selected is the Arabic book *“Kitāb al-bayzarah”*, which translates to “Book of Falconry.” It is a Treatise on falconry focussing on the health and treatment of birds of prey by an unnamed author. The text is divided into two treatises (مقالتان) or parts (جزءان), each subdivided into chapters (أبواب). Treatise One is devoted to general information about birds of prey, their anatomical make-up (based on Galenic humoral pathology), physical characteristics etc. Treatise Two describes specific illnesses, their signs and treatments. Below are the cover pages of both manuscripts (Jaghmini) and (Kitāb al-bayzarah):
 <figure>
 <img src="/assets/bayzarah.jpg" style="zoom: 50% margin-left: auto;"/>
-<figcaption>Kitāb al-bayzarah pg 1r</figcaption>
+<figcaption style="text-align: center;">Kitāb al-bayzarah pg 1r</figcaption>
 </figure>
 
 
