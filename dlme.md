@@ -1,6 +1,6 @@
 ---
 title: "DLME Metadata Assignment"
-layout: textlay
+layout: page
 excerpt: "DLME Metadata Assignment"
 sitemap: false
 permalink: /dlme-assignment/
