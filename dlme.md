@@ -6,6 +6,7 @@ sitemap: false
 permalink: /dlme-assignment/
 ---
 **From**:Muhammad Faizan Raza and Sami Areez
+
 We have chosen the following two objects from the Medical Manuscripts section of the Digital Library of the Middle East:
 
 <img src="/assets/comparison.png" style="width:80%; height:50%; margin-left:10%;" />
@@ -49,6 +50,7 @@ As you can see from the comparison above, the metadata for the first manuscript,
 
 
 **References**
+
 Jaghmīnī, Maḥmūd ibn Muḥammad. Qānūnchah Fī Al-Ṭibb. Possibly between 1475-1476.
 
 Kitāb al-bayzarah كتاب البيزرة, British Library: Oriental Manuscripts, Or 8187, in Qatar Digital Library <https://www.qdl.qa/node/9477>
