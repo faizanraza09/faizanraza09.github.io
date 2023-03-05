@@ -21,6 +21,8 @@ The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from
 <figcaption style="text-align: center;">Kitāb al-bayzarah pg 1r</figcaption>
 </figure>
 
+After gathering the metadata from the Digital Library of the Middle East, we compared them both on various aspects using the following table below:
+
 
 
 
