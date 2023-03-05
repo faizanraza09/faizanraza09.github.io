@@ -6,10 +6,13 @@ sitemap: false
 permalink: /dlme-assignment/
 ---
 We have chosen the following two objects from the Medical Manuscripts section of the Digital Library of the Middle East:
-<img src="/assets/comparison.png" style="zoom:50%"/>
+<img src="/assets/comparison.png" style="zoom:50%" display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;/>
 
 The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from Arabic to English as “Law of Medicine.” The manuscript, shortly called "Qānūnchah", is a 15th-century medical work that is an Arabic compendium divided into ten sections, covering various topics such as fundamental medical principles, anatomy, physical condition, treatment for ill patients, management of well patients, and various classes of diseases. It was most likely authored by Maḥmūd ibn Muḥammad ibn ʻUmar al-Jaghmīnī. Although the author claims to have compiled his work from extracts taken from ancient works on medicine, it is believed that he simply drew from Ibn Sīnā’s Qānūn. The work became essential and was regularly consulted, heavily studied, and even incorporated into the curricula of schools of medicine. The manuscript copies have annotations and material qualities that suggest its significance within the realm of the historical study and practice of Graeco-Islamic medicine.
-<figure style="text-align:center;">
+<figure>
 <img src="/assets/qanuncha.jpg" style="zoom:20%"/>
 <figcaption>Qānūnchah fī al-ṭibb pg 3</figcaption>
 </figure>
@@ -22,20 +25,6 @@ The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from
 
 
 
-
-<!-- | Metadata | Object 1 | Object 2 |
-| :------: | :------: | :------: |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Date     | 1475 or 1476 | 1787 |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah |
-| Title    | Qānūnchah fī al-ṭibb | Kitāb al-bayzarah | -->
 
 | Metadata            | Object 1                                                                                                                                                                                                                                                                                                                                              | Object 2                                                                                                                   |
 | :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
@@ -61,3 +50,5 @@ As you can see from the comparison above, the metadata for the first manuscript,
 References
 Jaghmīnī, Maḥmūd ibn Muḥammad. Qānūnchah Fī Al-Ṭibb. Possibly between 1475-1476.
 Kitāb al-bayzarah كتاب البيزرة, British Library: Oriental Manuscripts, Or 8187, in Qatar Digital Library <https://www.qdl.qa/node/9477>
+
+
