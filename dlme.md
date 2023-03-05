@@ -6,6 +6,7 @@ sitemap: false
 permalink: /dlme-assignment/
 ---
 We have chosen the following two objects from the Medical Manuscripts section of the Digital Library of the Middle East:
+
 <img src="/assets/comparison.png" style="zoom:50% display: block;
   margin-left: auto;
   margin-right: auto;" />
