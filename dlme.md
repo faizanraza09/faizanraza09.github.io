@@ -5,7 +5,7 @@ excerpt: "DLME Metadata Assignment"
 sitemap: false
 permalink: /dlme-assignment/
 ---
-**From**:Muhammad Faizan Raza and Sami Areez
+**From**: Muhammad Faizan Raza and Sami Areez
 
 We have chosen the following two objects from the Medical Manuscripts section of the Digital Library of the Middle East:
 
