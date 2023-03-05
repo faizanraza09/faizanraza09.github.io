@@ -9,7 +9,8 @@ We have chosen the following two objects from the Medical Manuscripts section of
 
 <img src="/assets/comparison.png" style="zoom:50% display: block;
   margin-left: auto;
-  margin-right: auto;" />
+  margin-right: auto;
+  width: 50%" />
 
 The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from Arabic to English as “Law of Medicine.” The manuscript, shortly called "Qānūnchah", is a 15th-century medical work that is an Arabic compendium divided into ten sections, covering various topics such as fundamental medical principles, anatomy, physical condition, treatment for ill patients, management of well patients, and various classes of diseases. It was most likely authored by Maḥmūd ibn Muḥammad ibn ʻUmar al-Jaghmīnī. Although the author claims to have compiled his work from extracts taken from ancient works on medicine, it is believed that he simply drew from Ibn Sīnā’s Qānūn. The work became essential and was regularly consulted, heavily studied, and even incorporated into the curricula of schools of medicine. The manuscript copies have annotations and material qualities that suggest its significance within the realm of the historical study and practice of Graeco-Islamic medicine.
 <figure>
