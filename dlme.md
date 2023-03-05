@@ -1,4 +1,3 @@
-dlme-assignment.md
 ---
 title: "DLME Metadata Assignment"
 layout: textlay
