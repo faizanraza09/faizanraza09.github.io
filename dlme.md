@@ -47,8 +47,10 @@ As you can see from the comparison above, the metadata for the first manuscript,
 
 
 
-References
+**References**
+
 Jaghmīnī, Maḥmūd ibn Muḥammad. Qānūnchah Fī Al-Ṭibb. Possibly between 1475-1476.
+
 Kitāb al-bayzarah كتاب البيزرة, British Library: Oriental Manuscripts, Or 8187, in Qatar Digital Library <https://www.qdl.qa/node/9477>
 
 
