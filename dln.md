@@ -15,7 +15,7 @@ As a computer science major and a hobbyist programmer, I use various programming
 
 The digital humanities course has opened my eyes to the vast array of technology and tools available for research data management and analysis. I have learned about tools such as VoyantTools for data visualization and network analysis and Google Ngrams Viewer for searching through large corpuses of texts which seemingly seem unsearchable. Kepler also fascinated me as it makes it so easy to present geographical data and makes it so much more meaningful and easier to analyse. I am fascinated by the potential of these tools to revolutionize the way we approach and analyze data, and I am eager to learn more about how to apply them in my academic and professional life.
 
-Digital Humanities is a field that I was not really familiar with before and some of the readings we did in the class really helped me to understand how to go about learning in this field. For example, Florian in his article, "Why Digital Humanities" enlists the four ways how to contribute to this field in a productive way. The methods he lists are:
+Digital Humanities is a field that I was not really familiar with before and some of the readings we did in the class really helped me to understand how to go about learning in this field. For example, Florian in his article, "Why Digital Humanities" enlists the four ways how to contribute to this field in a productive way. The methods they list are:
 1. Being interdisciplinary
 2. Being open
 3. Being digital
