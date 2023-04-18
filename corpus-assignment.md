@@ -6,3 +6,14 @@ sitemap: false
 permalink: /corpus-assignment/
 ---
 
+# Corpus Assignment
+## Faizan Raza and Lemisa Selimi
+
+### Introduction
+
+
+### Wordclouds
+
+#### Eckhart
+
+<img src="/wordclouds/Power of Now.png"/>
