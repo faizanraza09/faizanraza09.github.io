@@ -6,8 +6,7 @@ sitemap: false
 permalink: /corpus-assignment/
 ---
 
-# Corpus Assignment
-## Faizan Raza and Lemisa Selimi
+###### Faizan Raza and Lemisa Selimi
 
 ### Introduction
 
@@ -16,4 +15,5 @@ permalink: /corpus-assignment/
 
 #### Eckhart
 
-<img src="/wordclouds/Power of Now.png"/>
+<img src="/wordclouds/Power of Now.png" style="width:20%;"/>
+<img src="/wordclouds/a new earth.png" style="width:20%;"/>
