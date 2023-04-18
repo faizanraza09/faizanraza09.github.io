@@ -15,7 +15,10 @@ Faizan Raza and Lemisa Selimi
 #### Eckhart
 
 <figure>
-<img src="/wordclouds/Power of Now.png" style="width:80%;"/>
+<img src="/wordclouds/Power of Now.png" style="width:50%;"/>
 <figcaption>Power of Now</figcaption>
 </figure>
-<img src="/wordclouds/a new earth.png" style="width:80%;"/>
+<figure>
+<img src="/wordclouds/a new earth.png" style="width:50%;"/>
+<figcaption>A New Earth</figcaption>
+</figure>
