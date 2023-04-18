@@ -15,15 +15,15 @@ Faizan Raza and Lemisa Selimi
 #### Eckhart
 
 <div class="row" style="display:flex;">
-    <div class="column" style="flex: 33.33%; padding:5px">
+    <div class="column" style="flex: 50%; padding:5px">
         <figure style="text-align:center;">
-            <img src="/wordclouds/Power of Now.png" style="width:120%"/>
+            <img src="/wordclouds/Power of Now.png"/>
             <figcaption style=" font: italic smaller sans-serif;">Power of Now</figcaption>
         </figure>
     </div>
-     <div class="column" style="flex: 33.33%; padding:5px">
+     <div class="column" style="flex:50%; padding:5px">
         <figure style="text-align:center;">
-            <img src="/wordclouds/a new earth.png" style="width:120%"/>
+            <img src="/wordclouds/a new earth.png"/>
             <figcaption style="font: italic smaller sans-serif;">A New Earth</figcaption>
         </figure>
     </div>
