@@ -16,13 +16,13 @@ Faizan Raza and Lemisa Selimi
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 33.33%; padding:5px">
-        <figure>
+        <figure style="text-align:center;">
             <img src="/wordclouds/Power of Now.png"/>
-            <figcaption style="text-align:center; font: italic smaller sans-serif;">Power of Now</figcaption>
+            <figcaption style=" font: italic smaller sans-serif;">Power of Now</figcaption>
         </figure>
     </div>
      <div class="column" style="flex: 33.33%; padding:5px">
-        <figure>
+        <figure style="text-align:center;">
             <img src="/wordclouds/a new earth.png"/>
             <figcaption style="text-align:center; font: italic smaller sans-serif;">A New Earth</figcaption>
         </figure>
