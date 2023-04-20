@@ -1,9 +1,11 @@
 ---
-title: "Assignment 2 - Working with a Corpus"
-layout: page
-excerpt: "Corpus Assignment"
-sitemap: false
-permalink: /corpus-assignment/
+layout: post
+title: Can A Computer Write a Novel?
+#excerpt: "Has Artificial Intelligence Developed Enough to Write a Novel?"
+modified: 04/21/2023, 2:40:00
+#tags: [artificial intelligence, novel, text generation, history]
+comments: true
+category: blog
 ---
 **From**: Muhammad Faizan Raza and Lemisa Selimi
 
@@ -28,5 +30,3 @@ permalink: /corpus-assignment/
         </figure>
     </div>
 </div>
-
-
