@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Assignment 2 - Working with a Corpus
-#excerpt: "Has Artificial Intelligence Developed Enough to Write a Novel?"
+excerpt: "Working with a corpus"
 modified: 04/21/2023, 2:40:00
-#tags: [artificial intelligence, novel, text generation, history]
+tags: [artificial intelligence, text, text analysis]
 comments: true
 category: blog
 ---
