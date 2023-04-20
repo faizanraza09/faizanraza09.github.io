@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can A Computer Write a Novel?
+title: Assignment 2 - Working with a Corpus
 #excerpt: "Has Artificial Intelligence Developed Enough to Write a Novel?"
 modified: 04/21/2023, 2:40:00
 #tags: [artificial intelligence, novel, text generation, history]
