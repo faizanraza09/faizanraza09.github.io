@@ -77,7 +77,7 @@ The biggest words shown in the word clouds correlate with the titles as shown in
     </div>
      <div class="column" style="flex:50%; padding:5px">
         <figure style="text-align:center;">
-            <img src="/wordclouds/T levels of consiusness.png"/>
+            <img src="/wordclouds/T levels of consciousness.png"/>
             <figcaption style="font: italic smaller sans-serif;">Transcending Levels of Consciousnessh</figcaption>
         </figure>
     </div>
