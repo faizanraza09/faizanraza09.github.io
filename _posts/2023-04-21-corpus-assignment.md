@@ -97,3 +97,4 @@ Again, here too, many words between the two books are similar (present, moment, 
 
 ### Word Frequency Graphs
 ___
+<img src="/frequency graphs/00004e.png"/>
