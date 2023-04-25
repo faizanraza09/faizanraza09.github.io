@@ -14,27 +14,18 @@ Through computational text-analysis, you can become a far more efficient reader 
 
 ### Books 
 ___
-- #### Eckhart
-##### Power of Now 
-**Most frequent words in the corpus**: mind (441); body (325); pain (260); life (260); time (232)
-
-##### A New Earth 
-**Most frequent words in the corpus**: ego (417); life (271); form (244); consciousness (232); people (229)
+#### Eckhart
+- **Most frequent words in "The Power of Now"**: mind (441); body (325); pain (260); life (260); time (232)
+- **Most frequent words in "A New Earth"**: ego (417); life (271); form (244); consciousness (232); people (229)
 
 
-- #### David:
-##### Letting go 
-**Most frequent words in the corpus**: feelings (401); love (332); self (324); fear (324); life (304)
+#### David
+- **Most frequent words in "Letting Go"**: feelings (401); love (332); self (324); fear (324); life (304)
+- **Most frequent words in "Transcending Levels of Consciousness**: consciousness (434); spiritual (432); level (418); self (412); ego (277)
 
-##### Transcending levels 
-**Most frequent words in the corpus**: consciousness (434); spiritual (432); level (418); self (412); ego (277)
-
-- #### Esther Hicks:
-##### Ask and it is given 
-**Most frequent words in the corpus**: feel (480); want (465); desire (354); experience (324); process (309)
-
-##### The astonishing power of emotions 
-**Most frequent words in the corpus**: feel (420); thoughts (255); want (251); life (249)
+#### Esther Hicks
+- **Most frequent words in "Ask and It is Given"**: feel (480); want (465); desire (354); experience (324); process (309)
+- **Most frequent words in "Astonishing Power of Emotions"**: feel (420); thoughts (255); want (251); life (249)
 
 The most common words revolve around the individual, their mind and experience, such as feeling or desire, pain, or thoughts. Ego and Life seem common words in Eckhart’s and David’s books, and Life is seen in the books of all these authors. 
 
