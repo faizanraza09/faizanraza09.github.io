@@ -11,11 +11,10 @@ category: blog
 
 You have so many books you want to read, do you not? As humans have always been inclined to making life easier and easier, we have a solution for that too, you do not need to read all your ever growing list of books in order to know the best and most worthy of reading books. 
 Through computational text-analysis, you can become a far more efficient reader and even save your time for other things you enjoy instead of just going through books and at the end find out it was not worth it. You can get the main idea and much more about a book through the help of analysis and interpretive powers of computers. Tools such as Voyant are great at that. You can get word clouds, word frequencies, correlations, mandala, and many more. 
-<ul>
-### Books 
-</ul>
 
-#### Eckhart
+### Books 
+___
+- #### Eckhart
 ##### Power of Now 
 **Most frequent words in the corpus**: mind (441); body (325); pain (260); life (260); time (232)
 
@@ -23,14 +22,14 @@ Through computational text-analysis, you can become a far more efficient reader 
 **Most frequent words in the corpus**: ego (417); life (271); form (244); consciousness (232); people (229)
 
 
-#### David:
+- #### David:
 ##### Letting go 
 **Most frequent words in the corpus**: feelings (401); love (332); self (324); fear (324); life (304)
 
 ##### Transcending levels 
 **Most frequent words in the corpus**: consciousness (434); spiritual (432); level (418); self (412); ego (277)
 
-#### Esther Hicks:
+- #### Esther Hicks:
 ##### Ask and it is given 
 **Most frequent words in the corpus**: feel (480); want (465); desire (354); experience (324); process (309)
 
@@ -48,7 +47,7 @@ Most of these books are within the genre of self-help books and one of the key t
 
 ### Wordclouds
 
-- #### Eckhart
+#### Eckhart
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
@@ -68,7 +67,7 @@ Most of these books are within the genre of self-help books and one of the key t
 The biggest words shown in the word clouds correlate with the titles as shown in “Consciousness” being the biggest in the book transcending levels of consciousness, and “surrender”,  “negative”, “feelings” among the biggest in Letting go, which does not only match with the title but also the core of the book which is achieving liberation through the mechanism of surrender. However, most of the words are similar (energy, love, spiritual, life), with the only difference being their frequency of usage in the books, which shows that although the author might be explaining different things in these 2 books, his philosophy is the same. The word self is used a lot in both. 
 
 
-- #### David
+#### David
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
@@ -87,7 +86,7 @@ The biggest words shown in the word clouds correlate with the titles as shown in
 
 Again, here too, many words between the two books are similar (present, moment, body, and consciousness the most). However, the Power of Now seems to be more central to the individual with the main idea revolving around mind, body, attention, and inner, whereas in “A new earth”, this main idea seems to be expanded in the larger scale of humanity with the words being: people, ego, human, purpose, painbody, etc. 
 
-- #### Esther Hicks
+#### Esther Hicks
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
