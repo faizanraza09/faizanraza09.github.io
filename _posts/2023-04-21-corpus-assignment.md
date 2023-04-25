@@ -12,7 +12,7 @@ category: blog
 You have so many books you want to read, do you not? As humans have always been inclined to making life easier and easier, we have a solution for that too, you do not need to read all your ever growing list of books in order to know the best and most worthy of reading books. 
 Through computational text-analysis, you can become a far more efficient reader and even save your time for other things you enjoy instead of just going through books and at the end find out it was not worth it. You can get the main idea and much more about a book through the help of analysis and interpretive powers of computers. Tools such as Voyant are great at that. You can get word clouds, word frequencies, correlations, mandala, and many more. 
 
-### Books
+### Books ___
 #### Eckhart
 ##### Power of Now 
 **Most frequent words in the corpus**: mind (441); body (325); pain (260); life (260); time (232)
