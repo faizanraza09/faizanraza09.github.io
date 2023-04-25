@@ -37,7 +37,7 @@ Most of these books are within the genre of self-help books and one of the key t
 3. Esther Hicks has a very assertive and positive way of speaking. The main theme is the law of Attraction. 
 
 ### Wordclouds
-____
+___
 
 #### Eckhart
 
