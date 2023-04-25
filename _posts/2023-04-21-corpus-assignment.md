@@ -46,7 +46,7 @@ Most of these books are within the genre of self-help books and one of the key t
 
 ### Wordclouds
 
-#### Eckhart
+- #### Eckhart
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
@@ -66,7 +66,7 @@ Most of these books are within the genre of self-help books and one of the key t
 The biggest words shown in the word clouds correlate with the titles as shown in “Consciousness” being the biggest in the book transcending levels of consciousness, and “surrender”,  “negative”, “feelings” among the biggest in Letting go, which does not only match with the title but also the core of the book which is achieving liberation through the mechanism of surrender. However, most of the words are similar (energy, love, spiritual, life), with the only difference being their frequency of usage in the books, which shows that although the author might be explaining different things in these 2 books, his philosophy is the same. The word self is used a lot in both. 
 
 
-#### David
+- #### David
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
@@ -85,7 +85,7 @@ The biggest words shown in the word clouds correlate with the titles as shown in
 
 Again, here too, many words between the two books are similar (present, moment, body, and consciousness the most). However, the Power of Now seems to be more central to the individual with the main idea revolving around mind, body, attention, and inner, whereas in “A new earth”, this main idea seems to be expanded in the larger scale of humanity with the words being: people, ego, human, purpose, painbody, etc. 
 
-#### Esther Hicks
+- #### Esther Hicks
 
 <div class="row" style="display:flex;">
     <div class="column" style="flex: 50%; padding:5px">
