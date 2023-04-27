@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown data-background-color="rgb(70, 70, 255)">
+<section data-markdown data-background-color="aquamarine">
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
     ---
