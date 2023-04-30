@@ -111,7 +111,7 @@ using your willpower to try to produce action against the Current.". And then, H
 
 ### Word Frequency Graphs
 ___
-<img src="/frequency graphs/00004e.png"/>
+<img src="/frequency graphs/00004b.png"/>
 
 ### How much do our findings match what we knew before
 Philosophies: 
