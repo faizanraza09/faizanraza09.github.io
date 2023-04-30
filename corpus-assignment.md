@@ -109,7 +109,7 @@ rather than
 using your willpower to try to produce action against the Current.". And then, Hicks goes on to describe how to turn from upstream to downstream. This matches with the title of the book because the technique is identifying low feelings and using these to reach some better feeling vibrations...
 
 
-### Word Frequency Graphs
+### Word Frequency Graph
 ___
 <img src="/frequency graphs/00004b.png"/>
 
