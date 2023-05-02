@@ -118,6 +118,7 @@ Philosophies:
 Eckhart: _"Suffering comes from the mind and unconscious identification with it. Presence is the way out of the mind."_ 
 David: _"The way to transcend consciousness is to allow and experience the lower levels fully."_
 Esther: _"All that matters is how you feel. If you feel good, the law of attraction will always respond in the way you’d like to."_ 
+
 Through the tool "context", Voyant allows us to see some phrases or groups of words and then click on them to read a paragraph which is a wonderful way to identify things we like in one book and then read those pieces or even read the entire book. I.e. we can see words like mechanism and technique are mentions many times in the books of Hawkins and when we click on them, we find out sentences like: "One surprising observation about the mechanism of letting go is that major changes can take place very rapidly. Lifetime patterns can suddenly disappear, and long-standing inhibitions can be let go of in a matter of minutes, hours, or days. Rapid changes are accompanied by an increased aliveness. The life energy set free by the letting go of negativity now flows into positive attitudes, thoughts, and feelings, with a progressive increase of personal power.", which confirm his philosophy described above.
 
 ### The Value of Digital Humanities
