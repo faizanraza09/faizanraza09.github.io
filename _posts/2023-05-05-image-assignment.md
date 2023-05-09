@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 3 - Working with a Corpus of Images 
+title: Assignment 3 Draft- Working with a Corpus of Images 
 excerpt: "Image Assignment"
 modified: 04/21/2023, 2:40:00
 tags: [artificial intelligence, images, image analysis]
