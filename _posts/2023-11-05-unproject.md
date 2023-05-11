@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown data-separator-vertical="^\n\n">
+<section data-markdown data-separator-vertical="^\n\n" data-background-color="rgb(70, 70, 255)">
   <textarea data-template>
     ## Reseprentation of Mental Health in Popular TV Shows
     Faizan Raza and Lemisa Selimi
