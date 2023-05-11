@@ -36,38 +36,38 @@ category: presentation
 
     ---
 
-    ##Methodology
+    ## Methodology
 
 
-    ##Project Initiation
+    ## Project Initiation
     The project team will be assembled, and the project plan will be developed. Ethical considerations will be discussed and agreed upon. The objectives and scope of the project will be defined.
 
 
 
-    ##Data Collection 
+    ## Data Collection 
     The most popular TV shows over the last decade will be identified, and data will be collected from streaming platforms such as Netflix and Hulu. The data will be carefully reviewed to ensure that it is suitable for analysis.
 
 
-    ##Data Preprocessing
+    ## Data Preprocessing
     The collected data will be preprocessed, which involves cleaning, filtering, and organizing the data to prepare it for analysis.
 
 
-    ##Data Analysis
+    ## Data Analysis
     The data will be analyzed using natural language processing and computer vision techniques. The dialogue and scripts from TV shows will be analyzed to identify the types of mental health portrayed, the prevalence of stigmatizing language, and the accuracy of the portrayal. Facial expressions and body language of characters with mental health issues will be analyzed to evaluate the accuracy of the portrayal.
 
 
-    ##Results Interpretation The results of the analysis will be interpreted by the project team to identify any patterns and trends in the portrayal of mental health in popular TV shows over the last decade. The accuracy of the portrayal and the prevalence of stigmatizing language will be evaluated. The results will be presented in a clear and concise manner.
+    ## Results Interpretation The results of the analysis will be interpreted by the project team to identify any patterns and trends in the portrayal of mental health in popular TV shows over the last decade. The accuracy of the portrayal and the prevalence of stigmatizing language will be evaluated. The results will be presented in a clear and concise manner.
 
 
-    ##Reporting
+    ## Reporting
     The findings of the project will be reported in a comprehensive report. The report will highlight the main findings, including any trends and patterns identified, and will provide recommendations for improving the portrayal of mental health in popular TV shows. The report will be presented in an accurate and responsible manner.
 
 
-    ##Dissemination
+    ## Dissemination
     The findings of the project will be disseminated through various channels, including social media, academic conferences, and mental health advocacy organizations. The aim is to raise awareness about the representation of mental health in popular TV shows and to promote accurate and responsible portrayal.
 
 
-    ##Project Closure
+    ## Project Closure
     The project will be closed once all project activities have been completed. A final report will be produced, and all project documentation will be archived. Any feedback received from stakeholders will be reviewed and incorporated into the final report.
 
     ---
