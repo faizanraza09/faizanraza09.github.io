@@ -7,7 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown data-separator-vertical="^\n\n" data-background-color="rgb(70, 70, 255)">
+<section data-markdown data-separator-vertical="^\n\n" data-background-color="aquamarine">
   <textarea data-template>
     ## Reseprentation of Mental Health in Popular TV Shows
     Faizan Raza and Lemisa Selimi
@@ -26,6 +26,8 @@ category: presentation
     - Over a period of time
     - Movies vs Research
     - Different Genres
+
+    ---
 
     ## Data and Techniques
     - Data will be sourced from popular TV shows aired in the last decade, collected from streaming platforms with ethical considerations in mind.
