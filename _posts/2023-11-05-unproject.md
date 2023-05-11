@@ -38,7 +38,6 @@ category: presentation
 
     ##Methodology
 
-    ---
 
     ##Project Initiation
     The project team will be assembled, and the project plan will be developed. Ethical considerations will be discussed and agreed upon. The objectives and scope of the project will be defined.
