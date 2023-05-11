@@ -21,8 +21,18 @@ category: presentation
     - Bonus: Furthermore, the mind dysfunction of rejecting the present moment and creating resistance is studied since it is represented a lot in movies and seen as “normal”...
     
     ---
-    ## Works Anywhere
-    By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
+    ## Scope
+    The project hopes to raise awareness about mental health and the impact of media on the perception of mental health issues. Through this project, we will analyze and evaluate the accuracy of the representation of mental health topics in TV shows.
+    - Over a period of time
+    - Movies vs Research
+    - Different Genres
+
+    ## Data and Techniques
+    - Data will be sourced from popular TV shows aired in the last decade, collected from streaming platforms with ethical considerations in mind.
+    - TV shows will be selected based on popularity and critical acclaim.
+    - Text analysis and natural language processing techniques will be used to analyze dialogue and scripts, while computer vision techniques will assess facial expressions and body language for accurate portrayal evaluation.
+
+
     ---
     ## More Information
     Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
