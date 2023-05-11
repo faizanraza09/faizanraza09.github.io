@@ -34,10 +34,19 @@ category: presentation
     - TV shows will be selected based on popularity and critical acclaim.
     - Text analysis and natural language processing techniques will be used to analyze dialogue and scripts, while computer vision techniques will assess facial expressions and body language for accurate portrayal evaluation.
 
+    ---
+
+    ## Values and Ethics
+    - Values of accuracy and transparency guide the project.
+    - Ethical considerations are prioritized in data collection and analysis.
+    - Findings will be presented in an accurate and responsible manner, considering potential impact on public perception.
 
     ---
-    ## More Information
-    Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
-    For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
+
+    ## Dissemination
+    - Findings will be reported in a comprehensive report, highlighting main findings, trends, and patterns, along with recommendations for improving mental health portrayal.
+    - Dissemination will occur through social media, academic conferences, and mental health advocacy organizations.
+    - Goal is to raise awareness and promote accurate, responsible portrayal of mental health in popular TV shows.
+
   </textarea>
 </section>
