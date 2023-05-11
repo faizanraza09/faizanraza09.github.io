@@ -14,14 +14,12 @@ category: presentation
     ---
     ## Literature Review
     <section>
-    <section>
     - Mental health disorders can be represented with more accuracy digitally without making movies any less interesting. A movie can have both “accurate portrayal of a mental disorder AND a visually exciting and compelling narrative”. (Lopera-Mármol)
     - Despite their efforts, the media can improve a lot on representation of mental health disorders such as decreasing stigma, etc. (McMahon-Coleman)
     </section>
     <section>
     - Art works have contributed in expressing stereotypes about mental health, although there have been some artists who tried to humanize too
     - Bonus: Furthermore, the mind dysfunction of rejecting the present moment and creating resistance is studied since it is represented a lot in movies and seen as “normal”...
-    </section>
     </section>
     ---
     ## Works Anywhere
