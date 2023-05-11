@@ -56,7 +56,8 @@ category: presentation
     The data will be analyzed using natural language processing and computer vision techniques. The dialogue and scripts from TV shows will be analyzed to identify the types of mental health portrayed, the prevalence of stigmatizing language, and the accuracy of the portrayal. Facial expressions and body language of characters with mental health issues will be analyzed to evaluate the accuracy of the portrayal.
 
 
-    ## Results Interpretation The results of the analysis will be interpreted by the project team to identify any patterns and trends in the portrayal of mental health in popular TV shows over the last decade. The accuracy of the portrayal and the prevalence of stigmatizing language will be evaluated. The results will be presented in a clear and concise manner.
+    ## Results Interpretation
+    The results of the analysis will be interpreted by the project team to identify any patterns and trends in the portrayal of mental health in popular TV shows over the last decade. The accuracy of the portrayal and the prevalence of stigmatizing language will be evaluated. The results will be presented in a clear and concise manner.
 
 
     ## Reporting
