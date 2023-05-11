@@ -48,5 +48,23 @@ category: presentation
     - Dissemination will occur through social media, academic conferences, and mental health advocacy organizations.
     - Goal is to raise awareness and promote accurate, responsible portrayal of mental health in popular TV shows.
 
+    ---
+
+    ## Examples of TV Shows
+    - Ted Lasso
+    - Ginny and Georgia
+    - Euphoria
+    - BoJack Horseman
+    - 13 Reasons Why
+
+    ---
+
+    ## Works Cited
+
+    - Lopera-Mármol, M., Jiménez-Morales, Manel and Jiménez-Morales, Mònika (2022) Aesthetic representation of antisocial personality disorder in British coming-of-age TV series, MDPI. Available at: https://www.mdpi.com/2076-0760/11/3/133#B18-socsci-11-00133 (Accessed: 09 May 2023). 
+    - McMahon-Coleman, Kimberley. “Mental Health Disorders on Television: Representation versus Reality: Paperback.” Barnes & Noble, 4 June 2020, www.barnesandnoble.com/w/mental-health-disorders-on-television-kimberley-mcmahon-coleman/1136235810. 
+
+
+
   </textarea>
 </section>
