@@ -30,8 +30,9 @@ category: presentation
     ---
 
     ## Values and Ethics
-    - Values of accuracy and transparency guide the project.
-    - Ethical considerations are prioritized in data collection and analysis.
+    - Usage of the data only within the scope of our research
+    - Confidentiality agreement with the companies that will share the movies with us
+    - Deletion of movies after the research has been completed
     - Findings will be presented in an accurate and responsible manner, considering potential impact on public perception.
 
     ---
