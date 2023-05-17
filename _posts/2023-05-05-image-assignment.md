@@ -19,7 +19,17 @@ For this step of my assignment, I decided to go with 30 different food pictures 
 After the pictures were downloaded, labelled relevantly and put into the folder, I loaded the folder into orange using the import photos tool. Then I followed the pipeline mentioned in [video 14](https://youtu.be/Iu8g2Twjn9U) of the orange tutorial playlist to pass the images into the data table, then into the image embeddings, then into the distances calculator and then the hierarchical clustering tool. At the end I connected the image viewer to the clustering tool to visualize the images in the clusters together. 
 
 ### Analysing Clusters
-Before looking at the dendogram, my hypothesis was that since the curry based dishes are usually orange-ish in colour they would be paired together, the salads paired together because of the greens in them and desserts because of the general ingredients and colors they share throughout the globe. I was also interested to see if it could detect certain ingredients in the dishes and pair them according to the cuisines. I tried all the different types of image embeddings and although the clusters werent very remarkable accross all types, the VGG-19 Image embedding made the most reasonable groups. The dendogram that it generated is given below:
+Before looking at the dendogram, my hypothesis was that since the curry based dishes are usually orange-ish in colour they would be paired together, the salads paired together because of the greens in them and desserts because of the general ingredients and colors they share throughout the globe. I was also interested to see if it could detect certain ingredients in the dishes and pair them according to the cuisines. I tried all the different types of image embeddings and although the clusters werent very remarkable accross all types, the VGG-19 Image embedding made the most reasonable groups. 
+
+
+Let us examine the photo grid that it generated:
+
+![Photo Grid](/assets/grid.png)
+
+Some themes that are very obvious are the curry based dishes are coupled together in the bottom left corner and are predominantly orange in colour with greens and other colours infused in it. Other patterns that are also exvident include the presence of dishes in white bowls at the right bottom corner of the grid. However this kind of skews the analysis as the program does not focus on the dish but the container in it. Two dishes that I thought would be together were the desserts barfi and Li Sha Bao however due to the drastic changes in their table colours the photo grid put one at the extreme top and one at the left side of the grid which is another observation that the external factors disturb the actual analysis of the dishes.
+
+
+Along with the grid, the dendogram that the program generated is given below:
 
 ![Clustering Dendogram](/assets/clustering_dendogram.png)
 
