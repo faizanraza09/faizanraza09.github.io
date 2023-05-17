@@ -20,6 +20,7 @@ After the pictures were downloaded, labelled relevantly and put into the folder,
 
 ### Analysing Clusters
 Before looking at the dendogram, my hypothesis was that since the curry based dishes are usually orange-ish in colour they would be paired together, the salads paired together because of the greens in them and desserts because of the general ingredients and colors they share throughout the globe. I was also interested to see if it could detect certain ingredients in the dishes and pair them according to the cuisines. I tried all the different types of image embeddings and although the clusters werent very remarkable accross all types, the VGG-19 Image embedding made the most reasonable groups. The dendogram that it generated is given below:
+
 ![Clustering Dendogram](/assets/clustering_dendogram.png)
 
 Analyzing the cluster of first three food items, we can see 
@@ -44,21 +45,28 @@ The testing statistics of the classification are given as follows:
 - **Precision**: 0.611
 - **Recall**: 0.640
 
-Although the high AUC shows the ability of the classifier to distinguish between classes well, the Accuracy at 0.640 shows that the model was not able to put the images into their relevant classes as successfully as was expected because of the overlapping themes amongst the photographers
+Although the high AUC shows the ability of the classifier to distinguish between classes well, the Accuracy at 0.640 shows that the model was not able to put the images into their relevant classes as successfully as was expected because of the overlapping themes amongst the photographers.
 
-Lets look at first the david lloyd images whose pictures are all predicted correctly.
+
+Lets look at first the david lloyd images whose pictures are all predicted correctly:
+
 ![David Lloyd](/assets/david.png)
 
 Examining the pictures we can see that most of the pictures are of animals that have similar aesthetics or live in similar regions hence the similar background. All the photos seem to be have underwent similar colour grading and hence the program is probably detecting those
 
+
 Another photographer for which the program detected the pictures correctly was Nick Brandt:
+
 ![Nick Brandt](/assets/nick.png)
 
 Here the difference that sets out these set of images is very clear and its the grayscale images that the program detected very easily.
 
 
+One interesting case to look at is of the photos of the photographer Paul Nicklen whose no actual photos were predicted as his own and were evenly divided amongst the other photographers. As we can see there are no obvious similarities amongst the photos as the photos are of completely different objects and have no seemingly common color schemes or backgrounds
+
 ![Paul Nicklen](/assets/paul.png)
-One interesting case to look at is of the photos of the photographer Paul Nicklen whose no actual photos were predicted as his own and were evenly divided amongst the other photographers. As we can see 
+
+
 
 
 
